@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/audreyleteve/wave-app-in-azure/static/h2oai_wave.png"  width="20%" height="20%"> <img src="https://github.com/audreyleteve/wave-app-in-azure/static/Microsoft_Azure.png"  width="20%" height="20%">
+  <img src="https://github.com/audreyleteve/wave-app-in-azure/blob/main/static/h2oai_wave.png"  width="20%" height="20%"> <img src="https://github.com/audreyleteve/wave-app-in-azure/blob/main/static/Microsoft_Azure.png"  width="20%" height="20%">
 </p>
+
+
 
 H2O Wave is an open source software stack for building beautiful, low-latency, realtime, interactive, browser-based applications and dashboards entirely in Python without using HTML, Javascript, or CSS. H2O Wave makes it very easy to create data science applications, but it is even better when you can share it to the world, (or in your own [Microsoft Azure cloud][MS-Azure-Cloud] environment ;) ).
 
@@ -77,7 +79,7 @@ Python app. Please refer to the [Wave Docs][wave-older-versions].
 
 The app will be available at http://localhost:10101 :
 
-<img src="https://github.com/audreyleteve/wave-app-in-azure/static/hello_world_app.png"  width="20%" height="20%">
+<img src="https://github.com/audreyleteve/wave-app-in-azure/blob/main/static/hello_world_app.png"  width="20%" height="20%">
 
 
 ### 2. Dockerize the Wave app
