@@ -79,7 +79,7 @@ Python app. Please refer to the [Wave Docs][wave-older-versions].
 
 The app will be available at http://localhost:10101 :
 
-<img src="https://github.com/audreyleteve/wave-app-in-azure/blob/main/static/hello_world_app.png"  width="20%" height="20%">
+<img src="https://github.com/audreyleteve/wave-app-in-azure/blob/main/static/hello_world_app.png"  width="50%" height="50%">
 
 
 ### 2. Dockerize the Wave app
