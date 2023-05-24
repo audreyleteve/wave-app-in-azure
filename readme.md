@@ -6,10 +6,10 @@
 
 H2O Wave is an open source software stack for building beautiful, low-latency, realtime, interactive, browser-based applications and dashboards entirely in Python without using HTML, Javascript, or CSS. H2O Wave makes it very easy to create data science applications, but it is even better when you can share it to the world, (or in your own [Microsoft Azure cloud][MS-Azure-Cloud] environment ;) ).
 
-If you want to know how to get started and build your own H2O Wave app, you can start [here][wave-docs] but I will show you with a simple Wave app you can find in this tutorial!
+If you want to know how to get started and build your own H2O Wave app, you can start [here][wave-docs] !
 
 
-The following is a walk through on how to deploy and run a containerized H2O Wave app with Azure [App Service][Azure App Service].
+The following is a walk through on how to deploy and run a containerized H2O Wave app with [Azure App Service][Azure App Service].
 
 ## Pre-requisites
 
@@ -41,7 +41,7 @@ Let's begin.
 
 ### 1. Create a Wave App
 
-You can create your own Wave app ([examples][wave-examples]) or use an existing one. For the sake of this tutorial, let's clone from [wave-app-in-azure-repo]
+You can create your own Wave app ([examples][wave-examples]) or use an existing one. For the sake of this tutorial, let's clone from [wave-app-in-azure-repo] and use the provided app (developped using this [Wave tutorial][wave-hello]!)
 
 If you already have an app ready to go, you can skip to the next section.
 
@@ -283,6 +283,7 @@ Enjoy!
 [wave-discussions]: https://github.com/h2oai/wave/discussions
 [wave-docs]: https://wave.h2o.ai/docs/getting-started
 [wave-examples]: https://wave.h2o.ai/docs/examples
+[wave-hello]: https://wave.h2o.ai/docs/tutorial-hello
 [wave-issues]: https://github.com/h2oai/wave/issues
 [wave-older-versions]: https://wave.h2o.ai/docs/installation-8-20
 [wave]: https://wave.h2o.ai/
