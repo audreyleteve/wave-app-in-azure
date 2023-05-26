@@ -9,7 +9,7 @@ H2O Wave is an open source software stack for building beautiful, low-latency, r
 If you want to know how to get started and build your own H2O Wave app, you can start [here][wave-docs] !
 
 
-The following is a walk through on how to deploy and run a containerized H2O Wave app with [Azure App Service][Azure App Service].
+The following is a walk through on how to deploy and run a containerized H2O Wave app with [Azure App Service][Azure App Service]. For deployments elsewhere, you can check [this][wave-deployment].
 
 ## Pre-requisites
 
@@ -283,6 +283,7 @@ Enjoy!
 [wave-discussions]: https://github.com/h2oai/wave/discussions
 [wave-docs]: https://wave.h2o.ai/docs/getting-started
 [wave-examples]: https://wave.h2o.ai/docs/examples
+[wave-deployment]: https://wave.h2o.ai/docs/deployment
 [wave-hello]: https://wave.h2o.ai/docs/tutorial-hello
 [wave-issues]: https://github.com/h2oai/wave/issues
 [wave-older-versions]: https://wave.h2o.ai/docs/installation-8-20
